@@ -1,0 +1,22 @@
+
+#bolt{
+  width: 300px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#bot-content{
+  width: 300px;
+  margin: 1rem;
+  border-radius: 5px;
+  background-color: #ebebeb;
+  box-shadow: 0.2px 4px 5px rgba(211, 211, 211, 0.671);
+}
+
+#bolt-condition{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
